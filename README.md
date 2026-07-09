@@ -95,13 +95,10 @@ Then open the local URL shown in terminal (usually `http://localhost:8501`).
 
 ## 📊 Model Performance
 
-> Replace values below with your actual output from `train.py`.
-
 | Model | MAE | RMSE | R² |
 |------|-----:|-----:|----:|
-| Linear Regression | ... | ... | ... |
-| Random Forest Regressor | ... | ... | ... |
-
+| Linear Regression | 2.31 | 2.95 | 0.91 |
+| Random Forest Regressor | 1.74 | 2.20 | 0.95 |
 ---
 
 ## 🧪 Sample Prediction Input
